@@ -48,7 +48,7 @@ Some of the test images are given below.
 ![test](Snips/R_3.JPG)
 
 
-## Conclusion :
+## Conclusions :
 
 We are able to achieve a training accuracy of 85% and a validation accuracy of 88% using VGG16 transfer learning. 
 
